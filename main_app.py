@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 import PyPDF2
 from gtts import gTTS
 from io import BytesIO
